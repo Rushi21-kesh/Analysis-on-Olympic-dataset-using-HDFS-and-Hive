@@ -37,3 +37,8 @@ For performing analysis I’m going to use Hadoop and Apache Hive as data wareho
 ### Prerequisites:
    - Knowledge of HDFS
    - Knowledge of Hive
+
+### Querying for analysis on Olympic datasets:
+   - Q1 : 
+   - Q2 :
+   - Q3 :          
