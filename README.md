@@ -1,4 +1,4 @@
-<img src="https://colorlib.com/wp/wp-content/uploads/sites/2/2014/02/Olympic-logo.png.webp" alt="olympiclogo" width="1000" height="450"/> 
+<img src="https://colorlib.com/wp/wp-content/uploads/sites/2/2014/02/Olympic-logo.png.webp" alt="olympiclogo" width="1000" height="400"/> 
 
 <h1 align='center'> Analysis on Olympic dataset using HDFS and Hive </h1>
 
